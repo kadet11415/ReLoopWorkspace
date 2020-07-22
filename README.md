@@ -7,7 +7,7 @@ This repository uses git submodules to pull in the various workspace dependencie
 To clone this repo:
 
 ```
-git clone --branch=freeaps --recurse-submodules https://github.com/ivalkou/LoopWorkspace
+git clone --branch=reloop --recurse-submodules https://github.com/kadet11415/ReLoopWorkspace
 ```
 
 
